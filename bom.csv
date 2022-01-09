@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+D_Small,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25",Diode_SMD:D_SOD-123,
+MountingHole,"H1,H2",Keebio-Parts:breakaway-mousebites,
+Conn_01x06,"J1,J2",clawor:conn,
+SW_Push,SW6,Button_Switch_SMD:SW_SPST_TL3342,
+nice_nano,U1,nice-nano-kicad:nice_nano,
+MT25QL128ABA1ESE,U2,Package_SO:SOIC-8_5.23x5.23mm_P1.27mm,
